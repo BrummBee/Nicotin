@@ -1,0 +1,20 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Nicotin}}{%
+\APACcitebtitle {Nicotin}}{%
+{\protect \APACyear {2017}}%
+}]{%
+wiki}
+\APACinsertmetastar {%
+wiki}%
+\APACrefbtitle {Nicotin.} {Nicotin.}
+\newblock
+\APACrefYearMonthDay{2017}{Mar}{}.
+\newblock
+\APACaddressPublisher{}{Wikimedia Foundation}.
+\newblock
+\begin{APACrefURL} \url{https://de.wikipedia.org/wiki/Nicotin} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
