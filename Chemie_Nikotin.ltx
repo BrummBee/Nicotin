@@ -1,0 +1,61 @@
+\documentclass[a4paper,11pt]{article} %Papiergrösse, Schriftgrösse, Art des Dokuments
+
+\usepackage[ngerman]{babel} % deutsche Silbentrennug
+\usepackage[latin1]{inputenc} %für die deutschen Umlaute
+\usepackage{amsmath} 	%mathematische Formeln
+\usepackage{graphicx}	%Grafiken importieren
+\usepackage{float} %Grafiken fixieren
+\usepackage{pdfpages} %anhänge importieren
+\usepackage[colorlinks=false]{hyperref}%create links in the pdf
+
+
+%% Kopfzeile
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\setlength{\headheight}{14pt} 
+\fancyhf{}
+\fancyhead[C]{\nouppercase{\leftmark}}
+\fancyfoot[C]{\thepage}
+
+%Literaturverzeichnis nach APA-Regeln
+\usepackage{apacite}
+\bibliographystyle{apacite}
+
+\author{Lukas Bühler \& Jérôme Landtwing}
+%%
+%%
+\begin{document}
+
+\input{titelblatt_nikotin}
+
+\tableofcontents
+%%
+\newpage
+ 
+\section{Chemische Struktur der Substanz} Nikotin, eine farblose bis braune Flüssigkeit, ist ein Nervengift und gehört zu der Gruppe der Alkaloiden. Nikotin besitzt einen tabakartigen Geruch. \cite{wiki} Die Summenformel von Nikotin lautet: \begin{equation*} \text{C$_{10}$H$_{14}$N$_2$} \end{equation*} Nikotin kommt vorwiegend in der Tabakpflanze und in geringen Mengen auch in bestimmten Nachtschattengewächsen vor. \cite{Chemie.de}
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width=3cm]{nikotin_struktur}
+\caption{Strukturformel von Nikotin}  Bildquelle: \protect \cite{wiki}
+\end{figure}
+
+\section{Chemischer Syntheseweg der Substanz} Es gibt im wesentlichen zwei verschiedene Arten von Nikotin, (R)-Nikotin und (S)-Nikotin. Beim umgangssprachlich verwendeten Begriff Nikotin, ist meist von (S)-Nikotin die Rede. (S)-Nikotin kommt in der Natur vor im Gegensatz zu (R)-Nikotin welches chemisch hergestellt wird. Im Unterschied zum (S)-Nikotin lässt sich bei Konsum von (R)-Nikotin keine Auswirkungen auf den menschlichen Körper. \cite{wiki} Man hat bis heute keinen Weg gefunden, (S)-Nikotin im Labor herzustellen. 
+
+\section{Nachweismethode bei Konsum} LUKAS		\cite{rauchfrei} \newpage
+\section{Herkunft der Substanz und ihre natürliche Aufgabe (bei Naturstoff)} LUKAS	\newpage
+\section{Anwendung in Medizin, Kosmetik, Küche} LUKAS \newpage
+\section{Wirkungsmechanismus auf der Ebene des ZNS und auf den gesamten Organismus} LUKAS	 \newpage
+\section{Erwünschte Effekte}	JEROME \newpage
+\section{Unerwünschte Nebeneffekte} JEROME	\newpage 
+\section{Kurzfristige und langfristige Auswirkung auf die Gesundheit und die psychische Verfassung der Konsumenten} JEROME	\newpage
+\section{Suchtpotenzial}  JEROME \newpage
+\section{Zusätzliche nützliche oder informative Info (legal/illegal, Anzahl Konsumenten, $\ldots$)} JEROME
+Alle Informationen haben wir von \cite{wiki} entnommen.		 \newpage
+
+%%
+%%Literaturverzeichnis
+\bibliographystyle{plain}
+\bibliography{chemie_nikotin_literaturliste} 
+
+\end{document}

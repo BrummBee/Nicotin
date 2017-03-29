@@ -1,0 +1,76 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+chemie.de%
+}{%
+chemie.de%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Chemie.de}
+\APACinsertmetastar {%
+Chemie.de}%
+\begin{APACrefauthors}%
+chemie.de.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{Mar}{}.
+\newblock
+\APACrefbtitle {Nikotin.} {Nikotin.}
+\newblock
+\begin{APACrefURL}
+  [{2017.03.29}]\url{http://www.chemie.de/lexikon/Nikotin.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+rauchfrei.de%
+}{%
+rauchfrei.de%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+rauchfrei}
+\APACinsertmetastar {%
+rauchfrei}%
+\begin{APACrefauthors}%
+rauchfrei.de.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{Mar}{}.
+\newblock
+\APACrefbtitle {Nikotintest - Nikotin Analyse und Nachweis.} {Nikotintest -
+  nikotin analyse und nachweis.}
+\newblock
+\begin{APACrefURL} [{2017.03.29}]\url{http://www.rauchfrei.de/nikotintest.htm}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wikipedia%
+}{%
+Wikipedia%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+wiki}
+\APACinsertmetastar {%
+wiki}%
+\begin{APACrefauthors}%
+Wikipedia.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{Mar}{}.
+\newblock
+\APACrefbtitle {Nicotin.} {Nicotin.}
+\newblock
+\APACaddressPublisher{}{Wikimedia Foundation}.
+\newblock
+\begin{APACrefURL} [{2017.03.22}]\url{https://de.wikipedia.org/wiki/Nicotin}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
