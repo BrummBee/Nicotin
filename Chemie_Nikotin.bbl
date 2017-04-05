@@ -25,6 +25,31 @@ chemie.de.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Dokteronline.com%
+}{%
+Dokteronline.com%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+dokteronline}
+\APACinsertmetastar {%
+dokteronline}%
+\begin{APACrefauthors}%
+Dokteronline.com.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{Jun}{}.
+\newblock
+\APACrefbtitle {Was macht das Nikotin mit Ihrem K{\"o}rper?} {Was macht das
+  nikotin mit ihrem k{\"o}rper?}
+\newblock
+\begin{APACrefURL}
+  [{2017.04.05}]\url{http://www.dokteronline.com/de/blog/thema/was-macht-das-nikotin-mit-ihrem-koerper/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 rauchfrei.de%
 }{%
 rauchfrei.de%
