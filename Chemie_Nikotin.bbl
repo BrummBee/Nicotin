@@ -25,51 +25,26 @@ portal}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-chemie.de%
+Graef%
 }{%
-chemie.de%
+Graef%
 }{%
 {\protect \APACyear {2017}}%
 }]{%
-Chemie.de}
+rauchfrei}
 \APACinsertmetastar {%
-Chemie.de}%
+rauchfrei}%
 \begin{APACrefauthors}%
-chemie.de.%
+Graef, W.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYearMonthDay{2017}{Mar}{}.
 \newblock
-\APACrefbtitle {Nikotin.} {Nikotin.}
+\APACrefbtitle {Nikotintest - Nikotin Analyse und Nachweis.} {Nikotintest -
+  nikotin analyse und nachweis.}
 \newblock
-\begin{APACrefURL}
-  [{2017.03.29}]\url{http://www.chemie.de/lexikon/Nikotin.html}
-  \end{APACrefURL}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Dokteronline.com%
-}{%
-Dokteronline.com%
-}{%
-{\protect \APACyear {2016}}%
-}]{%
-dokteronline}
-\APACinsertmetastar {%
-dokteronline}%
-\begin{APACrefauthors}%
-Dokteronline.com.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2016}{Jun}{}.
-\newblock
-\APACrefbtitle {Was macht das Nikotin mit Ihrem K{\"o}rper?} {Was macht das
-  nikotin mit ihrem k{\"o}rper?}
-\newblock
-\begin{APACrefURL}
-  [{2017.04.05}]\url{http://www.dokteronline.com/de/blog/thema/was-macht-das-nikotin-mit-ihrem-koerper/}
+\begin{APACrefURL} [{2017.03.29}]\url{http://www.rauchfrei.de/nikotintest.htm}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -96,26 +71,66 @@ Hofmann, T.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-rauchfrei.de%
+Lippold%
 }{%
-rauchfrei.de%
+Lippold%
 }{%
 {\protect \APACyear {2017}}%
 }]{%
-rauchfrei}
+Chemie.de}
 \APACinsertmetastar {%
-rauchfrei}%
+Chemie.de}%
 \begin{APACrefauthors}%
-rauchfrei.de.%
+Lippold, D\BPBI B.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYearMonthDay{2017}{Mar}{}.
 \newblock
-\APACrefbtitle {Nikotintest - Nikotin Analyse und Nachweis.} {Nikotintest -
-  nikotin analyse und nachweis.}
+\APACrefbtitle {Nikotin.} {Nikotin.}
 \newblock
-\begin{APACrefURL} [{2017.03.29}]\url{http://www.rauchfrei.de/nikotintest.htm}
+\begin{APACrefURL}
+  [{2017.03.29}]\url{http://www.chemie.de/lexikon/Nikotin.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Nicotin}}{%
+\APACcitebtitle {Nicotin}}{%
+{\protect \APACyear {2017}}%
+}]{%
+wiki}
+\APACinsertmetastar {%
+wiki}%
+\APACrefbtitle {Nicotin.} {Nicotin.}
+\newblock
+\APACrefYearMonthDay{2017}{Mar}{}.
+\newblock
+\begin{APACrefURL} [{2017.03.22}]\url{https://de.wikipedia.org/wiki/Nicotin}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Niggemeier%
+}{%
+Niggemeier%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+ellviva}
+\APACinsertmetastar {%
+ellviva}%
+\begin{APACrefauthors}%
+Niggemeier, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{Jan}{}.
+\newblock
+\APACrefbtitle {Nikotin Anwendungsgebiete.} {Nikotin anwendungsgebiete.}
+\newblock
+\begin{APACrefURL}
+  [{2017.04.28}]\url{http://www.ellviva.de/Gesundheit/Nikotin-Anwendung.html}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -168,6 +183,23 @@ Sachser, C.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Sekund{\"a}rmetabolite}}{%
+\APACcitebtitle {Sekund{\"a}rmetabolite}}{%
+{\protect \APACyear {2017}}%
+}]{%
+wiki2}
+\APACinsertmetastar {%
+wiki2}%
+\APACrefbtitle {Sekund{\"a}rmetabolite.} {Sekund{\"a}rmetabolite.}
+\newblock
+\APACrefYearMonthDay{2017}{Apr}{}.
+\newblock
+\begin{APACrefURL}
+  [{2017.05.03}]\url{https://de.wikipedia.org/wiki/Sekund%C3%A4rmetabolite}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Thelly%
 }{%
 Thelly%
@@ -193,27 +225,37 @@ Thelly, R.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Wikipedia%
-}{%
-Wikipedia%
-}{%
+\APACcitebtitle {Virginischer Tabak}}{%
+\APACcitebtitle {Virginischer Tabak}}{%
 {\protect \APACyear {2017}}%
 }]{%
-wiki}
+wiki3}
 \APACinsertmetastar {%
-wiki}%
-\begin{APACrefauthors}%
-Wikipedia.%
-\end{APACrefauthors}%
-\unskip\
+wiki3}%
+\APACrefbtitle {Virginischer Tabak.} {Virginischer tabak.}
 \newblock
-\APACrefYearMonthDay{2017}{Mar}{}.
+\APACrefYearMonthDay{2017}{Apr}{}.
 \newblock
-\APACrefbtitle {Nicotin.} {Nicotin.}
+\begin{APACrefURL}
+  [{2017.05.03}]\url{https://de.wikipedia.org/wiki/Virginischer_Tabak}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Was macht das Nikotin mit Ihrem K{\"o}rper?}}{%
+\APACcitebtitle {Was macht das Nikotin mit Ihrem K{\"o}rper?}}{%
+{\protect \APACyear {2016}}%
+}]{%
+dokteronline}
+\APACinsertmetastar {%
+dokteronline}%
+\APACrefbtitle {Was macht das Nikotin mit Ihrem K{\"o}rper?} {Was macht das
+  nikotin mit ihrem k{\"o}rper?}
 \newblock
-\APACaddressPublisher{}{Wikimedia Foundation}.
+\APACrefYearMonthDay{2016}{Jun}{}.
 \newblock
-\begin{APACrefURL} [{2017.03.22}]\url{https://de.wikipedia.org/wiki/Nicotin}
+\begin{APACrefURL}
+  [{2017.04.05}]\url{http://www.dokteronline.com/de/blog/thema/was-macht-das-nikotin-mit-ihrem-koerper/}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
