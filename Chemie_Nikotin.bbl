@@ -1,6 +1,30 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+{Arbeitsgemeinschaft Tabakpr{\"a}ventation Schweiz}%
+}{%
+{Arbeitsgemeinschaft Tabakpr{\"a}ventation Schweiz}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+portal}
+\APACinsertmetastar {%
+portal}%
+\begin{APACrefauthors}%
+{Arbeitsgemeinschaft Tabakpr{\"a}ventation Schweiz}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {Tabakkonsum in der Schweiz.} {Tabakkonsum in der schweiz.}
+\newblock
+\begin{APACrefURL}
+  [{2017.05.03}]\url{https://portal.at-schweiz.ch/index.php/de/fakten/politik}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 chemie.de%
 }{%
 chemie.de%
@@ -50,6 +74,28 @@ Dokteronline.com.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Hofmann%
+}{%
+Hofmann%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+feelok}
+\APACinsertmetastar {%
+feelok}%
+\begin{APACrefauthors}%
+Hofmann, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\begin{APACrefURL}
+  [{2017.05.03}]\url{http://www.feel-ok.ch/de_CH/jugendliche/themen/tabak/interessante_themen/sucht/zigaretten/rauchen_starke_sucht.cfm}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 rauchfrei.de%
 }{%
 rauchfrei.de%
@@ -70,6 +116,79 @@ rauchfrei.de.%
   nikotin analyse und nachweis.}
 \newblock
 \begin{APACrefURL} [{2017.03.29}]\url{http://www.rauchfrei.de/nikotintest.htm}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Royal College of Physicians}%
+}{%
+{Royal College of Physicians}%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+royal}
+\APACinsertmetastar {%
+royal}%
+\begin{APACrefauthors}%
+{Royal College of Physicians}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{Apr}{}.
+\newblock
+\APACrefbtitle {Nicotine without smoke Tobacco harm reduction} {Nicotine
+  without smoke tobacco harm reduction}\ \APACbVolEdTR{}{\BTR{}}.
+\newblock
+\APACaddressInstitution{London}{Royal College of Physicians}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sachser%
+}{%
+Sachser%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+gemuet}
+\APACinsertmetastar {%
+gemuet}%
+\begin{APACrefauthors}%
+Sachser, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{Mai}{}.
+\newblock
+\APACrefbtitle {Rauchen dr{\"u}ckt aufs Gem{\"u}t.} {Rauchen dr{\"u}ckt aufs
+  gem{\"u}t.}
+\newblock
+\begin{APACrefURL}
+  [{2017.05.03}]\url{http://www.medizinauskunft.de/artikel/diagnose/psyche/02_11_rauchen.php}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Thelly%
+}{%
+Thelly%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+srf}
+\APACinsertmetastar {%
+srf}%
+\begin{APACrefauthors}%
+Thelly, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{Dez}{}.
+\newblock
+\APACrefbtitle {Mit dem Rauchen aufh{\"o}ren: Was wirklich hilft und was
+  nicht.} {Mit dem rauchen aufh{\"o}ren: Was wirklich hilft und was nicht.}
+\newblock
+\begin{APACrefURL}
+  [{2017.05.03}]\url{https://www.srf.ch/radio-srf-virus/kompass/mit-dem-rauchen-aufhoeren-was-wirklich-hilft-und-was-nicht}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
