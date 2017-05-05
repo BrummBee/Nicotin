@@ -1,0 +1,14 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Chemische Struktur der Substanz}{2}{section.1}
+\contentsline {section}{\numberline {2}Chemischer Syntheseweg der Substanz}{2}{section.2}
+\contentsline {section}{\numberline {3}Nachweismethode bei Konsum}{2}{section.3}
+\contentsline {section}{\numberline {4}Anwendung in Medizin, Kosmetik, K\"uche}{3}{section.4}
+\contentsline {section}{\numberline {5}Wirkungsmechanismus auf der Ebene des ZNS und auf den gesamten Organismus}{4}{section.5}
+\contentsline {section}{\numberline {6}Erw\"unschte Effekte}{5}{section.6}
+\contentsline {section}{\numberline {7}Unerw\"unschte Nebeneffekte }{5}{section.7}
+\contentsline {section}{\numberline {8}Kurzfristige und langfristige Auswirkung auf die Gesundheit und die psychische Verfassung der Konsumenten}{6}{section.8}
+\contentsline {subsection}{\numberline {8.1}Gesundheit}{6}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Psyche}{6}{subsection.8.2}
+\contentsline {section}{\numberline {9}Suchtpotenzial}{7}{section.9}
+\contentsline {section}{\numberline {10}Zus\"atzliche n\"utzliche oder informative Info (legal/illegal, Anzahl Konsumenten, $\ldots $)}{7}{section.10}
+\contentsline {section}{Literatur}{8}{section*.2}
