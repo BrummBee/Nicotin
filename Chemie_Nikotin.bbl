@@ -71,6 +71,31 @@ Hofmann, T.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Lenz%
+}{%
+Lenz%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+raucherportal}
+\APACinsertmetastar {%
+raucherportal}%
+\begin{APACrefauthors}%
+Lenz, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {Die Wirkung von Nikotin im Gehirn.} {Die wirkung von nikotin im
+  gehirn.}
+\newblock
+\begin{APACrefURL}
+  [{2017.05.03}]\url{http://www.raucherportal.de/warn/sucht3.htm}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Lippold%
 }{%
 Lippold%
