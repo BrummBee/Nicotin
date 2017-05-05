@@ -5,7 +5,7 @@
 }{%
 {Arbeitsgemeinschaft Tabakpr{\"a}ventation Schweiz}%
 }{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACyear {2015}}%
 }]{%
 portal}
 \APACinsertmetastar {%
@@ -15,12 +15,12 @@ portal}%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2015}{}{}.
 \newblock
 \APACrefbtitle {Tabakkonsum in der Schweiz.} {Tabakkonsum in der schweiz.}
 \newblock
 \begin{APACrefURL}
-  [{2017.05.03}]\url{https://portal.at-schweiz.ch/index.php/de/fakten/politik}
+  [{03.05.2017}]\url{https://portal.at-schweiz.ch/index.php/de/fakten/politik}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -65,8 +65,36 @@ Hofmann, T.%
 \newblock
 \APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
 \newblock
+\APACrefbtitle {Rauchen ist eine starke Sucht.} {Rauchen ist eine starke
+  sucht.}
+\newblock
 \begin{APACrefURL}
-  [{2017.05.03}]\url{http://www.feel-ok.ch/de_CH/jugendliche/themen/tabak/interessante_themen/sucht/zigaretten/rauchen_starke_sucht.cfm}
+  [{03.05.2017}]\url{http://www.feel-ok.ch/de_CH/jugendliche/themen/tabak/interessante_themen/sucht/zigaretten/rauchen_starke_sucht.cfm}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hugenholtzweg%
+}{%
+Hugenholtzweg%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+dokteronline}
+\APACinsertmetastar {%
+dokteronline}%
+\begin{APACrefauthors}%
+Hugenholtzweg, M\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{Jun}{}.
+\newblock
+\APACrefbtitle {Was macht das Nikotin mit Ihrem K{\"o}rper?} {Was macht das
+  nikotin mit ihrem k{\"o}rper?}
+\newblock
+\begin{APACrefURL}
+  [{04.05.2017}]\url{http://www.dokteronline.com/de/blog/thema/was-macht-das-nikotin-mit-ihrem-koerper/}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -91,7 +119,7 @@ Lenz, P.%
   gehirn.}
 \newblock
 \begin{APACrefURL}
-  [{2017.05.03}]\url{http://www.raucherportal.de/warn/sucht3.htm}
+  [{03.05.2017}]\url{http://www.raucherportal.de/warn/sucht3.htm}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -100,22 +128,22 @@ Lippold%
 }{%
 Lippold%
 }{%
-{\protect \APACyear {2017}}%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
 }]{%
 Chemie.de}
 \APACinsertmetastar {%
 Chemie.de}%
 \begin{APACrefauthors}%
-Lippold, D\BPBI B.%
+Lippold, B.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2017}{Mar}{}.
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
 \newblock
 \APACrefbtitle {Nikotin.} {Nikotin.}
 \newblock
 \begin{APACrefURL}
-  [{2017.03.29}]\url{http://www.chemie.de/lexikon/Nikotin.html}
+  [{29.03.2017}]\url{http://www.chemie.de/lexikon/Nikotin.html}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -131,7 +159,7 @@ wiki}%
 \newblock
 \APACrefYearMonthDay{2017}{Mar}{}.
 \newblock
-\begin{APACrefURL} [{2017.03.22}]\url{https://de.wikipedia.org/wiki/Nicotin}
+\begin{APACrefURL} [{22.03.2017}]\url{https://de.wikipedia.org/wiki/Nicotin}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -155,7 +183,7 @@ Niggemeier, T.%
 \APACrefbtitle {Nikotin Anwendungsgebiete.} {Nikotin anwendungsgebiete.}
 \newblock
 \begin{APACrefURL}
-  [{2017.04.28}]\url{http://www.ellviva.de/Gesundheit/Nikotin-Anwendung.html}
+  [{28.04.2017}]\url{http://www.ellviva.de/Gesundheit/Nikotin-Anwendung.html}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -187,7 +215,7 @@ Sachser%
 }{%
 Sachser%
 }{%
-{\protect \APACyear {2017}}%
+{\protect \APACyear {2004}}%
 }]{%
 gemuet}
 \APACinsertmetastar {%
@@ -197,13 +225,13 @@ Sachser, C.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2017}{Mai}{}.
+\APACrefYearMonthDay{2004}{Nov}{}.
 \newblock
 \APACrefbtitle {Rauchen dr{\"u}ckt aufs Gem{\"u}t.} {Rauchen dr{\"u}ckt aufs
   gem{\"u}t.}
 \newblock
 \begin{APACrefURL}
-  [{2017.05.03}]\url{http://www.medizinauskunft.de/artikel/diagnose/psyche/02_11_rauchen.php}
+  [{03.05.2017}]\url{http://www.medizinauskunft.de/artikel/diagnose/psyche/02_11_rauchen.php}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -220,7 +248,7 @@ wiki2}%
 \APACrefYearMonthDay{2017}{Apr}{}.
 \newblock
 \begin{APACrefURL}
-  [{2017.05.03}]\url{https://de.wikipedia.org/wiki/Sekund%C3%A4rmetabolite}
+  [{03.05.2017}]\url{https://de.wikipedia.org/wiki/Sekund%C3%A4rmetabolite}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -245,7 +273,7 @@ Thelly, R.%
   nicht.} {Mit dem rauchen aufh{\"o}ren: Was wirklich hilft und was nicht.}
 \newblock
 \begin{APACrefURL}
-  [{2017.05.03}]\url{https://www.srf.ch/radio-srf-virus/kompass/mit-dem-rauchen-aufhoeren-was-wirklich-hilft-und-was-nicht}
+  [{03.05.2017}]\url{https://www.srf.ch/radio-srf-virus/kompass/mit-dem-rauchen-aufhoeren-was-wirklich-hilft-und-was-nicht}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -262,25 +290,7 @@ wiki3}%
 \APACrefYearMonthDay{2017}{Apr}{}.
 \newblock
 \begin{APACrefURL}
-  [{2017.05.03}]\url{https://de.wikipedia.org/wiki/Virginischer_Tabak}
-  \end{APACrefURL}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-\APACcitebtitle {Was macht das Nikotin mit Ihrem K{\"o}rper?}}{%
-\APACcitebtitle {Was macht das Nikotin mit Ihrem K{\"o}rper?}}{%
-{\protect \APACyear {2016}}%
-}]{%
-dokteronline}
-\APACinsertmetastar {%
-dokteronline}%
-\APACrefbtitle {Was macht das Nikotin mit Ihrem K{\"o}rper?} {Was macht das
-  nikotin mit ihrem k{\"o}rper?}
-\newblock
-\APACrefYearMonthDay{2016}{Jun}{}.
-\newblock
-\begin{APACrefURL}
-  [{2017.04.05}]\url{http://www.dokteronline.com/de/blog/thema/was-macht-das-nikotin-mit-ihrem-koerper/}
+  [{03.05.2017}]\url{https://de.wikipedia.org/wiki/Virginischer_Tabak}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
